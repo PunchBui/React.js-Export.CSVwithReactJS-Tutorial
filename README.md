@@ -1,2 +1,0 @@
-# TutorialHookAPI
-Created with CodeSandbox
